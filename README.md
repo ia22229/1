@@ -40,9 +40,3 @@ This is a demo **Food Ordering Website** built using HTML, CSS, JavaScript, PHP,
 | `*.jpg, *.png, *.svg, *.webp` | Food images, backgrounds, icons |
 
 ---
-
-## 🧪 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/ia22229/food-ordering
